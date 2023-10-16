@@ -1,4 +1,4 @@
-# ADL22-HW3
+# ADL23-HW2
 Dataset & evaluation script for ADL 2022 homework 3
 
 ## Dataset
