@@ -1,13 +1,13 @@
 # ADL23-HW2
-Dataset & evaluation script for ADL 2022 homework 3
+Dataset & evaluation script for ADL 2023 homework 2
 
 ## Dataset
 [download link](https://drive.google.com/file/d/186ejZVADY16RBfVjzcMcz9bal9L3inXC/view?usp=sharing)
 
 ## Installation
 ```
-git clone https://github.com/moooooser999/ADL22-HW3.git
-cd ADL22-HW3
+git clone https://github.com/moooooser999/ADL23-HW2.git
+cd ADL23-HW2
 pip install -e tw_rouge
 ```
 
